@@ -9,4 +9,7 @@ This is the main content of this repository:
 Missing Data Values
    How to handle them?
    Maybe in some cases, we don't need to do it?
-   
+ 
+I started my research with the simplest model: linear regression, with a single variable y = ax+b. Therefore, the comparison results can be clearly presented in the two-dimensional coordinate system.
+Create a scatter plot  
+![image](https://github.com/JingYi-27/Missing-values/commit/c25d412499350c90036364eabef53946b200c0d5)
