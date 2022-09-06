@@ -11,6 +11,8 @@ Missing Data Values
    Maybe in some cases, we don't need to do it?
  
 I started my research with the simplest model: linear regression, with a single variable y = ax+b. Therefore, the comparison results can be clearly presented in the two-dimensional coordinate system.  
+[code_Python](https://github.com/JingYi-27/Missing-values/blob/main/Missing_values_LinearRegression.ipynb)  
+
 Create a scatter plot (50 points)   
 ![image](https://raw.githubusercontent.com/JingYi-27/Missing-values/main/images/nuage_de_points.PNG)  
 Then I randomly generate some missing values (15 points, 30%), I tried to fill these missing values by mean value and median value. Just to see the impact if we chose a bad filling value, I also added max and min value.  
